@@ -1,4 +1,6 @@
-Objective: Build an AI agent to play a 5x5 version of the Go game called Little-Go. The agent competes against pre-defined AI agents using techniques like Minimax, Alpha-Beta Pruning, and Q-Learning.
+Objective: 
+
+	Build an AI agent to play a 5x5 version of the Go game called Little-Go. The agent competes against pre-defined AI agents using techniques like Minimax, Alpha-Beta Pruning, and Q-Learning.
 
 Key Features:
 
